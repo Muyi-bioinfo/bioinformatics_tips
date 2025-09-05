@@ -1,2 +1,2 @@
-# bioinfomatics_tips
-This is a bioinfomatics tips file
+# bioinformatics_tips
+This is a bioinformatics tips file
