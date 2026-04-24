@@ -533,7 +533,7 @@ http://localhost:8317/management.html
 
 在 WSL 终端中执行：
 
-注：``your_proxy_token``在``config.yaml``文件中的``api-keys``位置
+注：``your_proxy_token``在``config.yaml``文件中的``api-keys``位置，又或者在管理页面的``配置面板``中``认证配置``的``API密钥``处
 
 ```bash
 export ANTHROPIC_BASE_URL="http://127.0.0.1:8317"
