@@ -8,8 +8,6 @@
 
 ## 0. 总览流程图
 
-> 将下图放在本文档开头，作为完整配置流程的导航图。
-
 ![Windows + WSL + Claude Code + CLIProxyAPI 总览流程图](./image/wsl_claude_code_chatgpt_workflow_chart.png)
 
 ---
