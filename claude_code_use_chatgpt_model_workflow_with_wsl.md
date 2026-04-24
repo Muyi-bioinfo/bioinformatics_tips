@@ -314,15 +314,19 @@ cd ~/cliproxyapi/
 ~/cliproxyapi/cli-proxy-api --version
 ```
 
-打开``.bashrc``文件，将以下命令加在``.bashrc``文件末尾，再重新加载配置文件
+打开``.bashrc``文件：
 
 ```bash
 vim ~/.bashrc
 ```
 
+将以下命令加在``.bashrc``文件末尾：
+
 ```text
 export PATH=$PATH:/home/你的用户名/cliproxyapi
 ```
+
+再重新加载配置文件：
 
 ```bash
 source ~/.bashrc
